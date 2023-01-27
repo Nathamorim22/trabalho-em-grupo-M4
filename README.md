@@ -8,7 +8,10 @@ nathália amorim,
 
 Suelen Moura,
 
-jade ribeiro.
+jade ribeiro,
+
+mariana benicio.
+
 
 
 ![Captura de Tela (9)](https://user-images.githubusercontent.com/113575622/215089622-3ed024c2-3b29-4f45-bd80-161dd1c9b1e5.png)
