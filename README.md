@@ -1,6 +1,6 @@
 # Projeto em grupo - Módulo 4 - Visualizando a situação 
 
-Grupo composto po:
+Grupo composto por:
 
 Francyelle izidoro,
 
